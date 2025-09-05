@@ -1,0 +1,12 @@
+{
+  "name": "chikado-core",
+  "version": "1.0.0",
+  "description": "Core Features of CHIKADO",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodejs index.js --dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CLSKVX7",
+  "license": "ISC"
+}
